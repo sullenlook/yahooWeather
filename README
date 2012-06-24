@@ -1,0 +1,11 @@
+YAHOOWEATHER PLUGIN IN DEUTSCH
+
+
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "yahooWeather" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "yahooWeather" in plugins.conf ein
+
+FERTIG
